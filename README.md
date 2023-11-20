@@ -1,16 +1,17 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>-->
 <h1 align="center">Hi 👋, I'm Siyamthanda Ndlovu 😄</h1>
-
+<h3>I'm into film, graphic design,  </h3>
+  
 <h3 align="center">I'm also a 2nd year Computer Science student at the University of Pretoria.</h3>
-<h2 align="center">You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#01)</h2>
+<h5 align="center">You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#01)</h5>
 
 <!--
 **thunderain/thunderain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a portfolio wesbite for my graphic design company Ronoh Media: [Ronoh Media Portfolio](https://thunderain.github.io/ronoh-media-portfolio/homepage.html)
+- 🌱 I’m currently learning Dev Op Tools in preperation for my position as the Computer Science Department Coordinator at Blue Crane Space
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -31,8 +32,9 @@ I've been working on my graphic design skills
 ## Language / Framework / Application Experience
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=java,py,cpp,nextjs,nodejs,mysql,git,vim,docker)](https://skills.thijs.gg) -->
 <p align="center"> [![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg) </p>
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
+<div align="center"> [![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)</div>
 <!--
 ## My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderain)](https://github.com/thunderain/github-readme-stats)
