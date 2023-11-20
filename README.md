@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Siyamthanda 😄
+<h1 align="center">Hi there👋, I'm Siyamthanda 😄</h1>
+
 
 <!--
 **thunderain/thunderain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +30,20 @@ I've been working on my graphic design skills
 ## Language / Framework / Application Experience
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=java,py,cpp,nextjs,nodejs,mysql,git,vim,docker)](https://skills.thijs.gg) -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,nodejs,git,github,mysql,java,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,sql,java,bootstrap)](https://skills.thijs.gg)
 
+<!--
 ## My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderain)](https://github.com/thunderain/github-readme-stats)
+-->
+## Connect with Me
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="linkedin.com\in\siyamthanda-ndlovu-132271258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandisa" height="30" width="40" /></a>
+  
+<a href="[https://instagram.com/therealbandisa/](https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="therealbandisa" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
