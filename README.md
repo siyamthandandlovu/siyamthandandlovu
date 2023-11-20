@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Siyamthanda 😄</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>-->
 
 
 <!--
@@ -31,7 +31,7 @@ I've been working on my graphic design skills
 ## Language / Framework / Application Experience
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=java,py,cpp,nextjs,nodejs,mysql,git,vim,docker)](https://skills.thijs.gg) -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,sql,java,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
 <!--
 ## My Most Used Languages
