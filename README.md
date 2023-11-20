@@ -1,6 +1,8 @@
-<h1 align="center">Hi there👋, I'm Siyamthanda 😄</h1>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>-->
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>-->
+<h1 align="center">Hi 👋, I'm Siyamthanda Ndlovu 😄</h1>
 
+<h3 align="center">I'm also a 2nd year Computer Science student at the University of Pretoria.</h3>
+<h2 align="center">You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#01)</h2>
 
 <!--
 **thunderain/thunderain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,20 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Shrek is the greatest animated movie of all time
 -->
 
-I'm currently a 2nd year Computer Science student at the University of Pretoria.
-You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/pdf/programme/12134001)
-
 <!--
 ## My Interests
 I've been working on my graphic design skills
-- From high school where we started with [scratch](https://scratch.mit.edu/about), Ive always been interested in the art of writing code as it amazes me everyday to the countless solutions that can be created.
+
 - [Netflix](https://www.netflix.com) is a must, I cant live without watching series.
 - I do enjoy going on hikes or camping. Wildlife is sometimes the best escape.
 - I have a strong interest in hive and swarm intelligence. I hope to study further on these topics.
 -->
+
 ## Language / Framework / Application Experience
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=java,py,cpp,nextjs,nodejs,mysql,git,vim,docker)](https://skills.thijs.gg) -->
-
+<p align="center"> [![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg) </p>
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
 <!--
