@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Shrek is the greatest animated movie of all time
 -->
 
 I'm currently a 2nd year Computer Science student at the University of Pretoria.
-You can check out my course information at here: (https://www.up.ac.za/yearbooks/2023/pdf/programme/12134001)
+You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/pdf/programme/12134001)
 
 <!--
 ## My Interests
