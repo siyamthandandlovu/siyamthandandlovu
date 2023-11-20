@@ -32,6 +32,6 @@ I've been working on my graphic design skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,nodejs,git,github,mysql,java,bootstrap)](https://skills.thijs.gg)
 
 ## My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KPhutiyagae)](https://github.com/KPhutiyagae/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderain)](https://github.com/thunderain/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
