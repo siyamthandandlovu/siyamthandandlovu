@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, I'm Siyamthanda 😄</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>
 
 
 <!--
@@ -42,8 +43,8 @@ I've been working on my graphic design skills
 
 <p align="left">
 <a href="linkedin.com\in\siyamthanda-ndlovu-132271258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandisa" height="30" width="40" /></a>
-  
 <a href="[https://instagram.com/therealbandisa/](https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="therealbandisa" height="30" width="40" /></a>
+  
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
