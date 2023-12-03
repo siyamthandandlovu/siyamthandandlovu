@@ -50,6 +50,13 @@ I've been working on my graphic design skills
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
 
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
+
+
 <h3 align="center">Connect With Me</h3>
 
 <p align="center">
@@ -57,8 +64,3 @@ I've been working on my graphic design skills
 <a href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" target="blank"> <img align="center" href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Siyamthanda" height="30" width="40" /></a>
   
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain syays" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
-
