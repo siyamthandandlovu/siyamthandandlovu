@@ -38,7 +38,7 @@ I've been working on my graphic design skills
 
 <h3 align="left">Language / Framework / Application Experience</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,ts,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
 <!--
 ## My Most Used Languages
