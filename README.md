@@ -60,5 +60,5 @@ I've been working on my graphic design skills
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain syays" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
 
