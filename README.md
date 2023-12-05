@@ -46,13 +46,13 @@ I've been working on my graphic design skills
 -->
 
 
-<h3 align="center">Quick Stats</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
-
-
-
+<h3 align="left">Quick Stats</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain stats" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
+<br>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
 
