@@ -48,14 +48,11 @@ I've been working on my graphic design skills
 
 <h3 align="left">Quick Stats</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain stats" /></p>
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
 <br>
 
 
-[![](https://raw.githubusercontent.com/thunderain/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/thunderain/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/thunderain/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/thunderain/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thunderain/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/thunderain/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/thunderain/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/thunderain/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thunderain/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/thunderain/github-profile-summary-cards)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
