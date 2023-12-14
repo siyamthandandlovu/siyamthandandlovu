@@ -48,11 +48,8 @@ I've been working on my graphic design skills
 
 <h3 align="left">Quick Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thunderain&show_icons=true&locale=en&layout=compact" alt="thunderain stats" /></p>
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thunderain&show_icons=true&locale=en" alt="Siyamthanda Ndlovu GitHub Statisics"/></p>
-<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thunderain&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thunderain&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thunderain&theme=vue)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thunderain&theme=default)
@@ -60,7 +57,6 @@ I've been working on my graphic design skills
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thunderain&theme=default&utcOffset=8)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&" alt="thunderain"/></p>
 
 
 <h3 align="center">Connect With Me</h3>
