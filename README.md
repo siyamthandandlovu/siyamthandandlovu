@@ -8,12 +8,7 @@
 
 -  I'm also a 2nd year Computer Science student at the University of Pretoria⚡
   You can check out information on my degree here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#01)
-<!--
-<h3 align="center">I'm also a 2nd year Computer Science student at the University of Pretoria⚡</h3>
-<h4 align="center">You can check out information on my course here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#01) </h4>
--->
-<!--
-**thunderain/thunderain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
