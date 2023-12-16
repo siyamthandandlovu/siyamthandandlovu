@@ -6,7 +6,7 @@
 
 - 🌱 I’m **currently learning** Dev Op tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
 
--  I'm also a 2nd year Computer Science student at the University of Pretoria⚡
+-  I'm also a final year Computer Science student at the University of Pretoria⚡
   You can check out information on my degree here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#fin)
 
 <!--
