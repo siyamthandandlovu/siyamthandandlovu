@@ -1,8 +1,7 @@
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=thunderain&label=Profile%20views&color=0e75b6&style=flat" alt="Siyamthanda Ndlovu Project Views" /> </p>-->
 <h1 align="center">Hi there👋, I'm Siyamthanda Ndlovu 😄</h1>
 <h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
 
-- 🔭 I’m **currently working on** a portfolio wesbite for my **graphic design** company Ronoh Media: [Ronoh Media Portfolio](https://thunderain.github.io/Ronoh-Media/homepage)
+- 🔭 I’m **currently working on** my own web development portfolio wesbite: [Siyamthanda Ndlovu Portfolio](https://siyamthanda-ndlovu.netlify.app/)
 
 - 🌱 I’m **currently learning** Dev Op tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
 
