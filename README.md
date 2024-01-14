@@ -10,12 +10,6 @@
 
 <!--
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a portfolio wesbite for my graphic design company Ronoh Media: [Ronoh Media Portfolio](https://thunderain.github.io/ronoh-media-portfolio/homepage.html)
-- 🌱 I’m currently learning Dev Op Tools in preperation for my position as the Computer Science Department Coordinator at [Blue Crane Space]
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -23,24 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Shrek is the greatest animated movie of all time
 
-
-
-## My Interests
-I've been working on my graphic design skills
-
-- [Netflix](https://www.netflix.com) is a must, I cant live without watching series.
-- I do enjoy going on hikes or camping. Wildlife is sometimes the best escape.
-- I have a strong interest in hive and swarm intelligence. I hope to study further on these topics.
 -->
 
 <h3 align="left">Language / Framework / Application Experience</h3>
 
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,ts,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
-<!--
-## My Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderain)](https://github.com/thunderain/github-readme-stats)
--->
 
 
 <h3 align="left">Quick Stats</h3>
