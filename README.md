@@ -15,8 +15,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Shrek is the greatest animated movie of all time
-
+- ⚡ Fun fact: 
 -->
 
 <h3 align="left">Language / Framework / Application Experience</h3>
@@ -45,3 +44,6 @@
 <a href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" target="blank"> <img align="center" href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Siyamthanda" height="30" width="40" /></a>
   
 </p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=thunderaine&color=brightgreen)
