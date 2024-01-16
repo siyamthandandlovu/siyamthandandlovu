@@ -47,6 +47,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=thunderaine&color=brightpink)
+![Profile Views](https://komarev.com/ghpvc/?username=thunderaine&color=orange)
 
 </div>
