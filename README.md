@@ -22,16 +22,16 @@
 <h3 align="center">Quick Stats</h3>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thunderain&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamthandandlovu&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thunderain&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thunderain&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thunderain&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thunderain&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamthandandlovu&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siyamthandandlovu&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siyamthandandlovu&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siyamthandandlovu&theme=2077&utcOffset=8)
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=thunderain&theme=radical&hide_border=false" alt="thunderain" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderain&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thunderain" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=siyamthandandlovu&theme=radical&hide_border=false" alt="siyamthandandlovu" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyamthandandlovu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="siyamthandandlovu" /></p>
 
 </div>
 
@@ -53,6 +53,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=thunderaine&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=siyamthandandlovue&color=orange)
 
 </div>
