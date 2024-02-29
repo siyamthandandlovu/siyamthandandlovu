@@ -2,7 +2,7 @@
  😄</h1>
 <h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
 
-- ⚡ I'm **currently learning** Svelte, C# & .NET as my goal this year is to become a full stack web dev 😎
+- ⚡ I'm **currently learning** ReactJS, C# & .NET as my goal this year is to become a full stack web dev 😎
 
 - 🔭 I’m **currently working on** my own web development portfolio wesbite: [Siyamthanda Ndlovu Portfolio](https://siyamthanda-ndlovu.netlify.app/)
 
