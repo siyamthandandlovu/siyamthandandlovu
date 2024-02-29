@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/siyamthanda-ndlovu-132271258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siyamthanda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siyamthandandlovu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Siyamthanda" height="30" width="40" /></a>
 <a href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" target="blank"> <img align="center" href="https://www.behance.net/gallery/176596729/Graphic-Design-Portfolio" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Siyamthanda" height="30" width="40" /></a>
 
 
