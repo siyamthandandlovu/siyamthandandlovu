@@ -15,7 +15,7 @@
 <div align="center">
 <h3 align="center">Language / Framework / Application Experience</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,html,css,js,ts,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,html,css,js,ts,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
 
 
 
