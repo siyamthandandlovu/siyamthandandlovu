@@ -5,8 +5,8 @@
 - ⚡ I'm **currently learning** ReactJS, C# & .NET as my goal this year is to become a full stack web dev 😎
 
 - 🔭 I’m **currently working on** my own web development portfolio wesbite: [Siyamthanda Ndlovu Portfolio](https://siyamthandandlovu.netlify.app/)
-- 
-- 🔭 I also happen to be a graphic designer and I just launched my own studio 😎 : [Ronoh Media](https://ronohmedia.netlify.app/)
+  
+- 😝 I also happen to be a graphic designer and I just **launched my own studio** 🎉 [Ronoh Media](https://ronohmedia.netlify.app/)
 
 - 🌱 I’m also looking into Dev Op tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
 
