@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm <a href="https://siyamthanda-ndlovu.netlify.app/">Siyamthanda Ndlovu</a>
+<h1 align="center">Hi 👋🏾, I'm <a href="https://siyamthandandlovu.netlify.app/">Siyamthanda Ndlovu</a>
  😄</h1>
 <h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
 
