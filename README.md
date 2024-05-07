@@ -42,7 +42,7 @@
 
 
 <h3 align="center">Connect With Me</h3>
-<h4 align="center"><a href="https://siyamthanda-ndlovu.netlify.app/">Siyamthanda Ndlovu Portfolio</a></h4>
+<h4 align="center"><a href="https://siyamthandandlovu.netlify.app/">Siyamthanda Ndlovu Portfolio</a></h4>
 <br>
 </div>
 
