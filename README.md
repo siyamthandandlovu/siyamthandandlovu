@@ -15,9 +15,9 @@
 
  
 <div align="center">
-<h3 align="center">Language / Framework / Application Experience</h3>
+<h3 align="center">Tech Stack & Tools</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,html,css,js,ts,cpp,git,github,java,bootstrap)](https://skills.thijs.gg)
+![My Skills](https://skillicons.dev/icons?i=react,next,nodejs,html,css,js,ts,cpp,git,github,java,figma,bootstrap)
 
 
 
