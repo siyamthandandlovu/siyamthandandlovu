@@ -2,13 +2,11 @@
  😄</h1>
 <h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
 
-- ⚡ I'm **currently learning** ReactJS, C# & .NET as my goal this year is to become a full stack web dev 😎
-
 - 🔭 I’m **currently working on** my own web development portfolio wesbite: [Siyamthanda Ndlovu Portfolio](https://siyamthandandlovu.netlify.app/)
   
 - 😝 I also happen to be a graphic designer and I just **launched my own studio** 🎉 [Ronoh Media](https://ronohmedia.netlify.app/)
 
-- 🌱 I’m also looking into Dev Op tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
+- 🌱 I’m also looking into DevOps tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
 
 - Additionally, I'm a final year (😁🎉) Computer Science student at the University of Pretoria⚡
   You can check out information on my degree here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#fin)
