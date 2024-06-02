@@ -29,11 +29,7 @@
 			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/50d253190548687.66574eb48dbf1.png" alt="chillflix"/> </a>
                     <p align="center">
                         An algorithm calculates the overall "temperature" of a tweet based on the interactions the a tweet has had.
-                    </p>
-					<details>
-						<summary>
- 						</summary>
- 					</details>
+                    </p> 
             </p>
             </td>
             <td width="50%">
@@ -44,13 +40,7 @@
                     <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> 
 			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="ccbox-tv"/> </a>
                     <p align="center">
-A C++ application that is a restaurant simulation program which aims to mimic the basic operations of a restaurant.                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Vue 2 with Element UI and typescript. Also use webpack.
-					</details>
+A C++ application that is a restaurant simulation program which aims to mimic the basic operations of a restaurant.                    </p> 
                 </p>
             </td>
         </tr>
@@ -64,33 +54,18 @@ A C++ application that is a restaurant simulation program which aims to mimic th
 			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d131f6190548687.6630674b4a072.png" alt="gallery"/> </a>
                     <p align="center">
                         Gallery Scroll Experience, recommended on computer 🖥
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						I used Gsap + Lenis.
-					</details>
+                    </p> 
                 </p>
             </td>
 				<td width="50%">
                 <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Chrome plugin: Pets for chrome</a>
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Dionysus 🍷</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="./static/logo-pet-chrome.png" alt="pets for chrome" width="50%"/> </a>
+                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a541190548687.663287393b14d.png" alt="pets for chrome" /> </a>
                     <p align="center">
                         🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
-                    </p>
-                        <p align="center">
-                        20 000 + current users !
-                    </p>
-					<details>
-						<summary>
-						<b>Note 📝</b>
-						</summary>
-						Create a chrome plugin with native JS and webpack. Use spriteling js.
-					</details>
+                    </p>  
             </p>
             </td>
         </tr>
