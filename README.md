@@ -26,10 +26,11 @@
         <tr>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Chillflix 🎶</a>
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> Burgundy 🍔</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> <img src="./static/chillflix.gif" alt="chillflix"/> </a>
+                    <a href="https://chillflix-radio.com/" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/50d253190548687.66574eb48dbf1.png" alt="chillflix"/> </a>
                     <p align="center">
                         A chill radio from youtube to listen Lo-Fi music without being disturbed
                     </p>
@@ -46,7 +47,8 @@
                     <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">CCbox TV 📹</a>
                 </h3>
                 <p align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> <img src="./static/ccbox-tv.gif" alt="ccbox-tv"/> </a>
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="ccbox-tv"/> </a>
                     <p align="center">
                         A netflix like for the Youtube Channel CCBTV
                     </p>
@@ -65,7 +67,8 @@
                     <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Gallery Scroll Experience</a>
                 </h3>
                 <p align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> <img src="./static/gallery.gif" alt="gallery"/> </a>
+                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d131f6190548687.6630674b4a072.png" alt="gallery"/> </a>
                     <p align="center">
                         Gallery Scroll Experience, recommended on computer 🖥
                     </p>
