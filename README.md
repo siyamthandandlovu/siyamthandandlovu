@@ -47,7 +47,7 @@ A C++ application that is a restaurant simulation program which aims to mimic th
         <tr>
             <td width="50%">
 				      <h3 align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Protea Pulse ⌚</a>
+                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Web Exploration Engine ⌚</a>
                 </h3>
                 <p align="center">
                     <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> 
@@ -70,15 +70,12 @@ A C++ application that is a restaurant simulation program which aims to mimic th
             </td>
         </tr>
 
-
-        
   </table>
 </div>
 
 <h3 align="center">Quick Stats</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamthandandlovu&theme=2077)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamthandandlovu&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siyamthandandlovu&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=siyamthandandlovu&theme=2077)
