@@ -40,6 +40,10 @@
 
 
 <h3 align="center">Connect With Me</h3>
+
+<h4 align="center"> Feel free to reach out if you have any questions, want to collaborate on a project, or just want to say hi!</h4>
+
+
 <h4 align="center"><a href="https://siyamthandandlovu.netlify.app/">Siyamthanda Ndlovu Portfolio</a></h4>
 <br>
 </div>
