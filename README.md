@@ -16,11 +16,23 @@
 ![My Skills](https://skillicons.dev/icons?i=bun,react,next,nodejs,html,css,js,ts,cpp,git,github,java,figma,bootstrap)
 
 <!-- Projects -->
-<h1 align="center">My latest projects 👨‍💻</h1>
+<h1 align="center">My latest projects 👩🏽‍💻</h1>
 <div align="center">
   <table>
-        <tr>
+  <tr>
             <td width="50%">
+                <h3 align="center">
+                    <a href="https://github.com/COS301-SE-2024/Web-Exploration-Engine" target="_blank" rel="noreferrer">Web Exploration Engine</a>
+                </h3>
+                <p align="center">
+                    <a href="https://github.com/COS301-SE-2024/Web-Exploration-Engine" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/791dfb190548687.665de18ebe3af.png" alt="web exploration engine"/> </a>
+                    <p align="center">
+                        The WEE automates the extraction of critical website information and delivers user-friendly insights and reports through an intuitive, responsive website
+                    </p> 
+            </p>
+            </td>
+                        <td width="50%">
                 <h3 align="center">
                     <a href="https://github.com/siyamthandandlovu/chirper" target="_blank" rel="noreferrer"> Chirper 🪽</a>
                 </h3>
@@ -30,7 +42,20 @@
                     <p align="center">
                         An algorithm calculates the overall "temperature" of a tweet based on the interactions the a tweet has had.
                     </p> 
-            </p>
+                </p>
+            </td>
+        </tr>
+        <tr>
+<td width="50%">
+                <h3 align="center">
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">Burgundy 🍔</a>
+                </h3>
+                <p align="center">
+                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="ccbox-tv"/> </a>
+                    <p align="center">
+A C++ application that is a restaurant simulation program which aims to mimic the basic operations of a restaurant.                    </p> 
+                </p>
             </td>
             <td width="50%">
                 <h3 align="center">
@@ -72,6 +97,21 @@ A C++ application that is a restaurant simulation program which aims to mimic th
 
   </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="center">Quick Stats</h3>
 
