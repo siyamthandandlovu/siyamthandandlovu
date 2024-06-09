@@ -13,8 +13,10 @@
 <div align="center">
 <h3 align="center">Tech Stack & Tools</h3>
 
-![My Skills](https://skillicons.dev/icons?i=bun,react,next,nodejs,html,css,js,ts,cpp,git,github,java,figma,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,react,docker,supabase,git,githubactions,github,java,cpp,ts,py,php,mysql,js,tailwind,figma,materialui,jest,ubuntu,vscode,postman,netlify,bash,bun,npm,bootstrap,html,css&perline=15
+)
 
+<br><br>
 <!-- Projects -->
 <h1 align="center">My latest projects 👩🏽‍💻</h1>
 <div align="center">
