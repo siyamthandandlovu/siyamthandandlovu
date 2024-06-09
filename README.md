@@ -38,9 +38,9 @@
                 </h3>
                 <p align="center">
                     <a href="https://github.com/siyamthandandlovu/chirper" target="_blank" rel="noreferrer"> 
-			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/50d253190548687.66574eb48dbf1.png" alt="chillflix"/> </a>
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/50d253190548687.66574eb48dbf1.png" alt="chirper twitter temperature algorithm"/> </a>
                     <p align="center">
-                        An algorithm calculates the overall "temperature" of a tweet based on the interactions the a tweet has had.
+                        An algorithm calculates the overall "temperature" of a tweet based on the interactions the a tweet has had, accesible as an API.
                     </p> 
                 </p>
             </td>
@@ -48,48 +48,48 @@
         <tr>
 <td width="50%">
                 <h3 align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">Burgundy 🍔</a>
+                    <a href="https://github.com/katnicole14/Burgundy" target="_blank" rel="noreferrer">Burgundy 🍔</a>
                 </h3>
                 <p align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> 
-			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="ccbox-tv"/> </a>
+                    <a href="https://github.com/katnicole14/Burgundy" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="burgundy C++ restuarant simulation "/> </a>
                     <p align="center">
-A C++ application that is a restaurant simulation program which aims to mimic the basic operations of a restaurant.                    </p> 
+A C++ restaurant simulation program which aims to mimic the basic operations of a restaurant.</p> 
                 </p>
             </td>
             <td width="50%">
                 <h3 align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer">Burgundy 🍔</a>
+                    <a href="https://bluecranespace.netlify.app/" target="_blank" rel="noreferrer">Blue Crane Space Website 🛰️</a>
                 </h3>
                 <p align="center">
-                    <a href="https://shiny-sundae-d1e169.netlify.app/" target="_blank" rel="noreferrer"> 
-			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b5f46190548687.65bc85293812d.png" alt="ccbox-tv"/> </a>
+                    <a href="https://bluecranespace.netlify.app/" target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/863296190548687.663c616507db3.png" alt="ccbox-tv"/> </a>
                     <p align="center">
-A C++ application that is a restaurant simulation program which aims to mimic the basic operations of a restaurant.                    </p> 
+In-progress website for a STEM-centered society at the University of Pretoria                    </p> 
                 </p>
             </td>
         </tr>
         <tr>
             <td width="50%">
 				      <h3 align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/" target="_blank" rel="noreferrer">Web Exploration Engine ⌚</a>
+                    <a href="https://ronohmedia.netlify.app/" target="_blank" rel="noreferrer">Ronoh Media 👑</a>
                 </h3>
                 <p align="center">
-                    <a href="https://dynamic-crisp-df32b7.netlify.app/"  target="_blank" rel="noreferrer"> 
-			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d131f6190548687.6630674b4a072.png" alt="gallery"/> </a>
+                    <a href="https://ronohmedia.netlify.app/"  target="_blank" rel="noreferrer"> 
+			    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/89444a190548687.65d73c1d50899.png" alt="ronoh media graphic design studio"/> </a>
                     <p align="center">
-                        Gallery Scroll Experience, recommended on computer 🖥
+                        Website for the graphic design studio owned by yours truly 😎
                     </p> 
                 </p>
             </td>
 				<td width="50%">
                 <h3 align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer">Dionysus 🍷</a>
+                    <a href="https://dionysus-wines.netlify.app/" target="_blank" rel="noreferrer">Dionysus 🍷</a>
                 </h3>
                 <p align="center">
-                    <a href="https://chrome.google.com/webstore/detail/pets-chrome/ifaicffibnedodkbekogndkdfeojcofb" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a541190548687.663287393b14d.png" alt="pets for chrome" /> </a>
+                    <a href="https://dionysus-wines.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54a541190548687.663287393b14d.png" alt="pets for chrome" /> </a>
                     <p align="center">
-                        🐾 Pets for Chrome is an application that adds cute and cuddly pets right into your browser.
+                        A web site designed to assist wine enthusiasts to browse South African wineries.
                     </p>  
             </p>
             </td>
@@ -97,11 +97,6 @@ A C++ application that is a restaurant simulation program which aims to mimic th
 
   </table>
 </div>
-
-
-
-
-
 
 
 
