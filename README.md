@@ -11,14 +11,15 @@
   You can check out information on my degree here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#fin)
 
 <div align="center">
-<h3 align="center">Tech Stack & Tools</h3>
+<br><br>
+<h3 align="center">TECH STACK AND TOOLS</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,react,docker,supabase,git,githubactions,github,java,cpp,ts,py,php,mysql,js,tailwind,figma,materialui,jest,ubuntu,vscode,postman,netlify,bash,bun,npm,bootstrap,html,css&perline=15
 )
 
 <br><br>
 <!-- Projects -->
-<h1 align="center">My latest projects 👩🏽‍💻</h1>
+<h1 align="center">LATEST PROJECTS 👩🏽‍💻</h1>
 <div align="center">
   <table>
   <tr>
@@ -108,9 +109,9 @@ In-progress website for a STEM-centered society at the University of Pretoria   
 
 
 
+<br><br>
 
-
-<h3 align="center">Quick Stats</h3>
+<h1 align="center">QUICK STATS 👩🏽‍💻</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siyamthandandlovu&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siyamthandandlovu&theme=2077)
@@ -123,7 +124,9 @@ In-progress website for a STEM-centered society at the University of Pretoria   
 
 </div>
 
-<h3 align="center">Connect With Me</h3>
+<br><br>
+<h1 align="center">CONNECT WITH ME 🍃</h1>
+
 
 <h4 align="center"> Feel free to reach out if you have any questions, want to collaborate on a project, or just want to say hi!</h4>
 
