@@ -14,7 +14,7 @@
 <br><br>
 <h3 align="center">TECH STACK AND TOOLS</h3>
 
-![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,nextjs,react,docker,supabase,git,githubactions,github,java,cpp,ts,py,php,mysql,js,tailwind,figma,materialui,jest,ubuntu,vscode,postman,netlify,bash,bun,npm,bootstrap,html,css&perline=15
+![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,astro,postgres,nextjs,react,docker,supabase,git,githubactions,github,java,cpp,ts,py,php,mysql,js,tailwind,figma,materialui,jest,ubuntu,vscode,postman,netlify,bash,bun,npm,bootstrap,html,css&perline=8
 )
 
 <br><br>
