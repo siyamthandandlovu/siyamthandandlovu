@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋🏾, I'm <a href="https://siyamthandandlovu.netlify.app/">Siyamthanda Ndlovu</a>
  😄</h1>
-<h3 align="center">I'm into art, film & television, graphic design, web development, IT education and dev ops</h3>
+<h3 align="center">I'm Computer into art, film & television, graphic design, web development, IT education and dev ops</h3>
 
-- 🔭 I’m **currently working on** my own web development portfolio wesbite: [Siyamthanda Ndlovu Portfolio](https://siyamthandandlovu.netlify.app/)
-- 😝 I also happen to be a graphic designer and I just **launched my own studio** 🎉 [Ronoh Media](https://ronohmedia.netlify.app/)
+<p align="center">
+I'm a Computer Scientist with a background combines skills in DevOps, UI/UX design, and IoT development, supported by over three years of graphic design experience. This mix has shaped a practical approach to building solutions that are both functional and user-friendly. <br><br><br> Looking ahead, I’m developing Ronoh Media into a UX-focused studio offering both software and design services. As a DevOps engineer, I’m also open to opportunities in full-stack development or UX design - especially those that align with my entrepreneurial goals and allow me to contribute meaningfully to tech-driven projects. 
+	
+</p>
 
-- 🌱 I’m also looking into DevOps tools in preperation for my position as the **Computer Science Department Coordinator** at [Blue Crane Space](https://www.linkedin.com/company/bluecranespace/)🔭
-
-- Additionally, I'm a final year (😁🎉) Computer Science student at the University of Pretoria⚡
-  You can check out information on my degree here: [BSc Computer Science](https://www.up.ac.za/yearbooks/2023/EBIT-faculty/UD-programmes/view/12134001#fin)
+<h3 align="center">Let’s chat - I’m always up for a good tech conversation :)</h3>
 
 <div align="center">
 <br><br>
