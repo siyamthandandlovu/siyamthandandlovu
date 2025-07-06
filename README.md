@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm <a href="https://siyamthandandlovu.netlify.app/">Siyamthanda Ndlovu</a>
  😄</h1>
-<h3 align="center">I'm Computer into art, film & television, graphic design, web development, IT education and dev ops</h3>
+<h3 align="center">Computer Science • UX Design • Full Stack Development • DevOps • Ready to Join Your Next Project
+</h3>
 
 <p align="center">
 I'm a Computer Scientist with a background combines skills in DevOps, UI/UX design, and IoT development, supported by over three years of graphic design experience. This mix has shaped a practical approach to building solutions that are both functional and user-friendly. <br><br><br> Looking ahead, I’m developing Ronoh Media into a UX-focused studio offering both software and design services. As a DevOps engineer, I’m also open to opportunities in full-stack development or UX design - especially those that align with my entrepreneurial goals and allow me to contribute meaningfully to tech-driven projects. 
